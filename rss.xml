@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+
+<!-- ======== 下面的信息改成你自己的 ======== -->
+
+<title>拆药笔记</title>
+<link>https://alexhum90.github.io/podcast/</link>
+<description>CNS 药物 MI 视角深度拆解。每周从一片药入手，拆开它背后的证据体系——从 1952 年的氯丙嗪到 2024 年的 KarXT，120 年的精神科药物证据进化史。</description>
+<language>zh-cn</language>
+<author>alexhum90</author>
+
+<!-- 封面图：需要上传一张 1400x1400 到 3000x3000 的方形 JPG/PNG 到仓库里 -->
+<itunes:image href="https://alexhum90.github.io/podcast/cover.jpg"/>
+
+<itunes:category text="Health &amp; Fitness"/>
+<itunes:category text="Science"/>
+<itunes:explicit>no</itunes:explicit>
+
+<!-- ======== 每集一条 <item>，新增剧集就复制下面这段改 ======== -->
+
+<item>
+    <title>001 氯丙嗪：没有 RCT 的年代，一个药怎么证明自己有效？</title>
+    <description><![CDATA[1951 年，一个法国外科医生在手术室里意外发现了一种叫 RP-4560 的化合物能让病人"安静但不睡着"。十五年后，这个意外发现变成了现代精神药理学的起点。在 RCT 还没有被发明出来的年代，一个药怎么证明自己有效？这期拆解氯丙嗪的四层证据构建逻辑。]]></description>
+    <enclosure url="https://alexhum90.github.io/podcast/拆药笔记氯丙嗪.mp3" length="0" type="audio/mpeg"/>
+    <pubDate>Mon, 01 Jan 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:18:00</itunes:duration>
+    <guid>https://alexhum90.github.io/podcast/拆药笔记氯丙嗪.mp3</guid>
+</item>
+
+<!-- 下一期节目发布时，复制上面 <item>...</item> 改标题和文件名即可 -->
+
+<!-- 新的一集就复制上面 <item>...</item> 这一段，改标题、描述、文件名、日期 -->
+
+</channel>
+</rss>
